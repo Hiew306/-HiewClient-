@@ -1,2 +1,2 @@
-# -HiewClient-Source-
-Hiew Client Minecraft Fabric Source Code
+# -HiewClient-
+Hiew Client Minecraft Fabric Code
