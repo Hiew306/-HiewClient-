@@ -1,110 +1,29 @@
-![Hiew Banner](https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:123B70,100:7B2FF7&height=200&section=header&text=HIEW&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=MINECRAFT%20CLIENT%20DEVELOPER&descAlignY=60)
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,50:123B70,100:7B2FF7&height=260&section=header&text=HIEW&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Minecraft%20Client%20Developer%20%E2%80%A2%20Java%20Modder%20%E2%80%A2%20UI%20Designer&descAlignY=62&descSize=18" width="100%" alt="Hiew Banner"/> <a href="https://github.com/Hiew306"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&height=50&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+Hiew+%F0%9F%91%8B;Building+Minecraft+Mods+%26+Clients;Developer+of+HiewClient+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG"/> </a> <br/> <img src="https://komarev.com/ghpvc/?username=Hiew306&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Views"/> <img src="https://img.shields.io/github/followers/Hiew306?style=for-the-badge&logo=github&color=7B2FF7&labelColor=050816" alt="Followers"/> <img src="https://img.shields.io/github/stars/Hiew306/-HiewClient-?style=for-the-badge&logo=github&color=36BCF7&labelColor=050816" alt="Stars"/>
 
-# 🌌 HIEW
+<br/><br/>
 
-### 💻 Minecraft Client Developer | Java Modder | UI Designer
+<a href="https://github.com/Hiew306"><img src="https://img.shields.io/badge/GitHub-Hiew306-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://discord.gg/jhQV3XQkWj"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> <a href="https://github.com/Hiew306/-HiewClient-"><img src="https://img.shields.io/badge/HiewClient-Explore-1677FF?style=for-the-badge&logo=minecraft&logoColor=white" alt="HiewClient"/></a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Building+Minecraft+Mods+and+Clients;Developer+of+HiewClient+%E2%9C%A8)
+</div> <br/> <h2 align="center">👨‍🚀 Về tôi</h2> <div align="center"> <table> <tr> <td align="center" width="50%"> <h3>🧑‍💻 Thông tin</h3> <b>Tên:</b> Hiew<br/> <b>Vai trò:</b> Minecraft Client Developer<br/> <b>Ngôn ngữ:</b> Java<br/> <b>Nền tảng:</b> Minecraft Fabric<br/> <b>Dự án chính:</b> HiewClient<br/> <b>Khẩu hiệu:</b> <i>Biến ý tưởng thành hiện thực</i><br/><br/> 🇻🇳 Sản xuất tại Việt Nam, có Việt hóa đầy đủ. </td> <td align="center" width="50%"> <h3>🎯 Sở thích</h3> ⚔️ Phát triển Client<br/> 🤖 Modding &amp; Tự động hóa<br/> 🎨 Thiết kế UI/UX<br/> 🌈 Giao diện tùy chỉnh<br/> ⚡ Tối ưu hiệu năng </td> </tr> </table> </div> <br/> <h2 align="center">⚔️ Dự án nổi bật: HiewClient</h2> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:09152D,100:174EA6&height=90&text=HIEW%20CLIENT&fontSize=38&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="HiewClient"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hiew306&color=36BCF7&style=for-the-badge)
+<b>Tùy biến trải nghiệm Minecraft của bạn.</b><br/> Client Fabric tập trung vào tùy chỉnh, tiện ích và đổi mới.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hiew306-181717?style=for-the-badge&logo=github)](https://github.com/Hiew306)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/jhQV3XQkWj)
+<br/><br/>
 
----
+<a href="https://github.com/Hiew306/-HiewClient-"><img src="https://img.shields.io/badge/⭐_STAR-HIEWCLIENT-1677FF?style=for-the-badge&logo=github" alt="Star"/></a> <a href="https://github.com/Hiew306/-HiewClient-/releases"><img src="https://img.shields.io/badge/⬇_DOWNLOAD-RELEASES-7B2FF7?style=for-the-badge&logo=github" alt="Releases"/></a> <a href="https://discord.gg/jhQV3XQkWj"><img src="https://img.shields.io/badge/💬_SUPPORT-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Support"/></a>
 
-## 👨‍🚀 ABOUT ME
+<br/><br/>
 
-```yaml
-Name: Hiew
-Role: Minecraft Client Developer
-Language: Java
-Platform: Minecraft Fabric
-Main Project: HiewClient
+<img src="https://img.shields.io/badge/Minecraft-1.21.11-62B47A?style=flat-square&logo=minecraft&logoColor=white" alt="MC"/> <img src="https://img.shields.io/badge/Loader-Fabric-DBD0B4?style=flat-square" alt="Fabric"/> <img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Build-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle"/>
 
-Interests:
-  - Client Development
-  - Modding & Automation
-  - UI/UX Design
-  - Custom Themes
-  - Performance Optimization
+<br/><br/>
 
-Motto: Turning Ideas Into Reality
-```
+<table> <tr><th></th><th align="left">Module</th><th align="left">Mô tả</th></tr> <tr><td>🎨</td><td><b>Custom UI</b></td><td>Theme, HUD và giao diện</td></tr> <tr><td>🇻🇳</td><td><b>Tiếng Việt</b></td><td>Việt hóa đầy đủ</td></tr> <tr><td>⛏️</td><td><b>Auto Mine</b></td><td>Tự động đào</td></tr> <tr><td>🌱</td><td><b>Auto Farm</b></td><td>Tự động làm nông</td></tr> <tr><td>🧩</td><td><b>Schematic</b></td><td>Xây theo schematic</td></tr> <tr><td>🔍</td><td><b>Base Finder</b></td><td>Radar và phát hiện base</td></tr> <tr><td>⚙️</td><td><b>Optimization</b></td><td>Hiệu năng và ổn định</td></tr> </table> </div> <br/> <h2 align="center">🛠️ Công nghệ</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=java,gradle,idea,vscode,git,github&perline=6" alt="Skills"/> </div> <br/> <h2 align="center">📊 Thống kê GitHub</h2> <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hiew306&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&count_private=true" alt="Stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiew306&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816" alt="Top Languages"/> <br/> <img src="https://streak-stats.demolab.com?user=Hiew306&theme=tokyonight&hide_border=true&background=050816" alt="Streak"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiew306&bg_color=050816&color=36BCF7&line=7B2FF7&point=FFFFFF&area=true&area_color=123B70&hide_border=true" width="100%" alt="Activity Graph"/> </div> <br/> <h2 align="center">🚀 Lộ trình HiewClient</h2> <div align="center"> <table> <tr><th align="left">Hạng mục</th><th>Tiến độ</th></tr> <tr><td>✅ HiewClient Core</td><td><img src="https://img.shields.io/badge/100%25-2ea44f?style=flat-square" alt="100%"/></td></tr> <tr><td>✅ Giao diện &amp; Theme tùy chỉnh</td><td><img src="https://img.shields.io/badge/100%25-2ea44f?style=flat-square" alt="100%"/></td></tr> <tr><td>✅ Việt hóa</td><td><img src="https://img.shields.io/badge/100%25-2ea44f?style=flat-square" alt="100%"/></td></tr> <tr><td>🔧 Base Finder nâng cao</td><td><img src="https://img.shields.io/badge/30%25-1677FF?style=flat-square" alt="30%"/></td></tr> <tr><td>🔧 Auto Schematic cải tiến</td><td><img src="https://img.shields.io/badge/20%25-7B2FF7?style=flat-square" alt="20%"/></td></tr> <tr><td>🔧 Tự động hóa nâng cao</td><td><img src="https://img.shields.io/badge/20%25-7B2FF7?style=flat-square" alt="20%"/></td></tr> <tr><td>🔧 Cải thiện hiệu năng</td><td><img src="https://img.shields.io/badge/40%25-1677FF?style=flat-square" alt="40%"/></td></tr> </table> </div> <br/> <h2 align="center">🌐 Kết nối với tôi</h2> <div align="center">
 
-💻 Minecraft enthusiast and developer passionate about creating custom clients, useful mods and unique interfaces.
+<a href="https://github.com/Hiew306"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://discord.gg/jhQV3XQkWj"><img src="https://img.shields.io/badge/Discord-Join_My_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
----
+<h3>💬 Bạn có ý tưởng? Cùng nhau tạo nên điều tuyệt vời! 🚀</h3> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:123B70,100:050816&height=140&section=footer&text=Made%20with%20%F0%9F%92%99%20and%20%E2%98%95&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" alt="Footer"/>
 
-## ⚔️ FEATURED PROJECT — HIEWCLIENT
+<sub>© 2026 Hiew</sub>
 
-![HiewClient Banner](https://capsule-render.vercel.app/api?type=rect&color=0:09152D,100:174EA6&height=100&text=HIEW%20CLIENT&fontSize=40&fontColor=FFFFFF)
-
-### ✨ Customize Your Minecraft Experience
-
-A Minecraft Fabric Client focused on customization, utility and innovation.
-
-[![Explore HiewClient](https://img.shields.io/badge/EXPLORE-HIEWCLIENT-1677FF?style=for-the-badge&logo=github)](https://github.com/Hiew306/-HiewClient-)
-
-[![Source Code](https://img.shields.io/badge/SOURCE-CODE-181717?style=for-the-badge&logo=github)](https://github.com/Hiew306/-HiewClient-)
-
-### 🌟 Main Features
-
-| Module | Description |
-|:---|:---|
-| 🎨 Custom UI | Themes, HUD & Interface |
-| 🇻🇳 Vietnamese | Vietnamese Localization |
-| ⛏️ Auto Mine | Mining Automation |
-| 🌱 Auto Farm | Farming Automation |
-| 🧩 Schematic | Schematic Builder |
-| 🔍 Base Finder | Base Detection & Radar |
-| ⚙️ Optimization | Performance & Stability |
-
----
-
-## 🛠️ TECHNOLOGIES
-
-![Java](https://skillicons.dev/icons?i=java)
-![Gradle](https://skillicons.dev/icons?i=gradle)
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Git](https://skillicons.dev/icons?i=git)
-
----
-
-## 📊 GITHUB STATISTICS
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiew306&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiew306&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hiew306&theme=tokyonight&hide_border=true&background=050816)
-
----
-
-## 🚀 DEVELOPMENT ROADMAP
-
-- [x] HiewClient Core
-- [x] Custom UI & Themes
-- [x] Vietnamese Localization
-- [ ] Advanced Base Finder
-- [ ] Improved Auto Schematic
-- [ ] Advanced Automation
-- [ ] Performance Improvements
-
----
-
-## 🌐 CONNECT WITH ME
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/Hiew306)
-
-[![Discord](https://img.shields.io/badge/Discord-Join_My_Server-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/jhQV3XQkWj)
-
-### 💬 HAVE AN IDEA?
-
-**Let's build something awesome together!** 🚀
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:123B70,100:050816&height=120&section=footer)
-
-**© 2026 Hiew | Made with 💙 and ☕**
+</div>
